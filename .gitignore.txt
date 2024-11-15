@@ -1,0 +1,4 @@
+yoga_pose_dataset/DATASET/TEST/
+yoga_pose_dataset/DATASET/TRAIN/
+Merged_Dataset/Test/
+Merged_Dataset/Train/
