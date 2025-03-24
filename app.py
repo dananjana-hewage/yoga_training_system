@@ -1,4 +1,4 @@
-from flask import Flask, jsonify
+from api import Flask, jsonify
 import mysql.connector
 
 app =Flask(__name__)
